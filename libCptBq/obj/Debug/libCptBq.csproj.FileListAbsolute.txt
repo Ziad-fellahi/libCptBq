@@ -1,0 +1,35 @@
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\libCptBq\bin\Debug\libCptBq.dll
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\libCptBq\bin\Debug\libCptBq.pdb
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\libCptBq\obj\Debug\libCptBq.csproj.AssemblyReference.cache
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\libCptBq\obj\Debug\libCptBq.csproj.CoreCompileInputs.cache
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\libCptBq\obj\Debug\libCptBq.dll
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\libCptBq\obj\Debug\libCptBq.pdb
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\libCptBq\bin\Debug\libCptBq.xml
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\libCptBq\bin\Debug\libCptBq.xml
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\libCptBq\bin\Debug\libCptBq.dll
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\libCptBq\bin\Debug\libCptBq.pdb
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\libCptBq\obj\Debug\libCptBq.csproj.AssemblyReference.cache
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\libCptBq\obj\Debug\libCptBq.csproj.CoreCompileInputs.cache
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\libCptBq\obj\Debug\libCptBq.dll
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\libCptBq\obj\Debug\libCptBq.pdb
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\libCptBq\bin\Debug\libCptBq.xml
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\libCptBq\bin\Debug\libCptBq.dll
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\libCptBq\bin\Debug\libCptBq.pdb
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\libCptBq\obj\Debug\libCptBq.csproj.AssemblyReference.cache
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\libCptBq\obj\Debug\libCptBq.csproj.CoreCompileInputs.cache
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\libCptBq\obj\Debug\libCptBq.dll
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\libCptBq\obj\Debug\libCptBq.pdb
+D:\C#\libCptBqTU\libCptBq\bin\Debug\libCptBq.xml
+D:\C#\libCptBqTU\libCptBq\bin\Debug\libCptBq.dll
+D:\C#\libCptBqTU\libCptBq\bin\Debug\libCptBq.pdb
+D:\C#\libCptBqTU\libCptBq\obj\Debug\libCptBq.csproj.AssemblyReference.cache
+D:\C#\libCptBqTU\libCptBq\obj\Debug\libCptBq.csproj.CoreCompileInputs.cache
+D:\C#\libCptBqTU\libCptBq\obj\Debug\libCptBq.dll
+D:\C#\libCptBqTU\libCptBq\obj\Debug\libCptBq.pdb
+D:\libCptBqTU\libCptBq\bin\Debug\libCptBq.xml
+D:\libCptBqTU\libCptBq\bin\Debug\libCptBq.dll
+D:\libCptBqTU\libCptBq\bin\Debug\libCptBq.pdb
+D:\libCptBqTU\libCptBq\obj\Debug\libCptBq.csproj.AssemblyReference.cache
+D:\libCptBqTU\libCptBq\obj\Debug\libCptBq.csproj.CoreCompileInputs.cache
+D:\libCptBqTU\libCptBq\obj\Debug\libCptBq.dll
+D:\libCptBqTU\libCptBq\obj\Debug\libCptBq.pdb

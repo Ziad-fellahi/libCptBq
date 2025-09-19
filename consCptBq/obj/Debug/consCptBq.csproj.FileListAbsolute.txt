@@ -1,0 +1,57 @@
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\consCptBq\bin\Debug\consCptBq.exe
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\consCptBq\bin\Debug\consCptBq.pdb
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\consCptBq\bin\Debug\libCptBq.dll
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\consCptBq\bin\Debug\libCptBq.pdb
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\consCptBq\bin\Debug\libCptBq.xml
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\consCptBq\obj\Debug\consCptBq.csproj.AssemblyReference.cache
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\consCptBq\obj\Debug\consCptBq.csproj.CoreCompileInputs.cache
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\consCptBq\obj\Debug\consCptBq.csproj.CopyComplete
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\consCptBq\obj\Debug\consCptBq.exe
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\consCptBq\obj\Debug\consCptBq.pdb
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\consCptBq\bin\Debug\consCptBq.exe.config
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\consCptBq\bin\Debug\consCptBq.exe
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\consCptBq\bin\Debug\consCptBq.pdb
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\consCptBq\bin\Debug\libCptBq.dll
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\consCptBq\bin\Debug\libCptBq.pdb
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\consCptBq\bin\Debug\libCptBq.xml
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\consCptBq\obj\Debug\consCptBq.csproj.AssemblyReference.cache
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\consCptBq\obj\Debug\consCptBq.csproj.CoreCompileInputs.cache
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\consCptBq\obj\Debug\consCptBq.csproj.CopyComplete
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\consCptBq\obj\Debug\consCptBq.exe
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\consCptBq\obj\Debug\consCptBq.pdb
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\consCptBq\bin\Debug\consCptBq.exe.config
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\consCptBq\bin\Debug\consCptBq.exe
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\consCptBq\bin\Debug\consCptBq.pdb
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\consCptBq\bin\Debug\libCptBq.dll
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\consCptBq\bin\Debug\libCptBq.pdb
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\consCptBq\bin\Debug\libCptBq.xml
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\consCptBq\obj\Debug\consCptBq.csproj.AssemblyReference.cache
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\consCptBq\obj\Debug\consCptBq.exe.config
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\consCptBq\obj\Debug\consCptBq.csproj.CoreCompileInputs.cache
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\consCptBq\obj\Debug\consCptBq.csproj.Up2Date
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\consCptBq\obj\Debug\consCptBq.exe
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\consCptBq\obj\Debug\consCptBq.pdb
+D:\C#\libCptBqTU\consCptBq\bin\Debug\consCptBq.exe.config
+D:\C#\libCptBqTU\consCptBq\bin\Debug\consCptBq.exe
+D:\C#\libCptBqTU\consCptBq\bin\Debug\consCptBq.pdb
+D:\C#\libCptBqTU\consCptBq\bin\Debug\libCptBq.dll
+D:\C#\libCptBqTU\consCptBq\bin\Debug\libCptBq.pdb
+D:\C#\libCptBqTU\consCptBq\bin\Debug\libCptBq.xml
+D:\C#\libCptBqTU\consCptBq\obj\Debug\consCptBq.csproj.AssemblyReference.cache
+D:\C#\libCptBqTU\consCptBq\obj\Debug\consCptBq.exe.config
+D:\C#\libCptBqTU\consCptBq\obj\Debug\consCptBq.csproj.CoreCompileInputs.cache
+D:\C#\libCptBqTU\consCptBq\obj\Debug\consCptBq.csproj.Up2Date
+D:\C#\libCptBqTU\consCptBq\obj\Debug\consCptBq.exe
+D:\C#\libCptBqTU\consCptBq\obj\Debug\consCptBq.pdb
+D:\libCptBqTU\consCptBq\bin\Debug\consCptBq.exe.config
+D:\libCptBqTU\consCptBq\bin\Debug\consCptBq.exe
+D:\libCptBqTU\consCptBq\bin\Debug\consCptBq.pdb
+D:\libCptBqTU\consCptBq\bin\Debug\libCptBq.dll
+D:\libCptBqTU\consCptBq\bin\Debug\libCptBq.pdb
+D:\libCptBqTU\consCptBq\bin\Debug\libCptBq.xml
+D:\libCptBqTU\consCptBq\obj\Debug\consCptBq.csproj.AssemblyReference.cache
+D:\libCptBqTU\consCptBq\obj\Debug\consCptBq.exe.config
+D:\libCptBqTU\consCptBq\obj\Debug\consCptBq.csproj.CoreCompileInputs.cache
+D:\libCptBqTU\consCptBq\obj\Debug\consCptBq.csproj.Up2Date
+D:\libCptBqTU\consCptBq\obj\Debug\consCptBq.exe
+D:\libCptBqTU\consCptBq\obj\Debug\consCptBq.pdb

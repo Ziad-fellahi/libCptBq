@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>libCptBq</name>
+    </assembly>
+    <members>
+        <member name="T:libCptBq.Compte">
+            <summary>
+            Classe Compte
+            </summary>
+        </member>
+        <member name="P:libCptBq.Compte.Numero">
+            <summary>
+            Propriétés implémentées automatiquement
+            </summary>
+        </member>
+        <member name="M:libCptBq.Compte.#ctor(System.Int32,System.String,System.Decimal,System.Decimal)">
+            <summary>
+            Constructeur à 4 arguments
+            </summary>
+            <param name="numero">le numéro</param>
+            <param name="nom">le nom</param>
+            <param name="solde">le solde</param>
+            <param name="decouvertAutorise">le découvert autorisé</param>
+        </member>
+        <member name="M:libCptBq.Compte.#ctor">
+            <summary>
+            Constructeur de compte par défaut
+            </summary>
+        </member>
+        <member name="M:libCptBq.Compte.Crediter(System.Decimal)">
+            <summary>
+            Réecriture de la méthode ToString
+            </summary>
+            <returns></returns>
+            <summary>
+            Crédite le compte du montant spécifié
+            </summary>
+            <param name="montant">Le montant à créditer</param>
+        </member>
+        <member name="M:libCptBq.Compte.Debiter(System.Decimal)">
+            <summary>
+            Débite le compte du montant spécifié si le solde le permet
+            </summary>
+            <param name="montant">Le montant à débiter</param>
+            <returns>True si le débit a été effectué, False sinon</returns>
+        </member>
+        <member name="M:libCptBq.Compte.Transferer(System.Decimal,libCptBq.Compte)">
+            <summary>
+            Transférer un montant vers un autre compte
+            </summary>
+            <param name="montant"></param>
+            <param name="compteDestination"></param>
+            <returns></returns>
+        </member>
+        <member name="M:libCptBq.Compte.Superieur(libCptBq.Compte)">
+            <summary>
+            Savoir si le solde est supérieur à celui d'un autre compte
+            </summary>
+            <param name="compteDestination"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

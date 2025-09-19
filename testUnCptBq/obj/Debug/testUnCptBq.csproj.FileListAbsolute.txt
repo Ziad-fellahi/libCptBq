@@ -1,0 +1,80 @@
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\testUnCptBq\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\testUnCptBq\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\testUnCptBq\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\testUnCptBq\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\testUnCptBq\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\testUnCptBq\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\testUnCptBq\bin\Debug\testUnCptBq.dll
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\testUnCptBq\bin\Debug\testUnCptBq.pdb
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\testUnCptBq\bin\Debug\libCptBq.dll
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\testUnCptBq\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\testUnCptBq\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\testUnCptBq\bin\Debug\libCptBq.pdb
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\testUnCptBq\bin\Debug\libCptBq.xml
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\testUnCptBq\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\testUnCptBq\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\testUnCptBq\obj\Debug\testUnCptBq.csproj.AssemblyReference.cache
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\testUnCptBq\obj\Debug\testUnCptBq.csproj.CoreCompileInputs.cache
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\testUnCptBq\obj\Debug\testUnCptBq.csproj.CopyComplete
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\testUnCptBq\obj\Debug\testUnCptBq.dll
+C:\Users\christophe\OneDrive - BUREAU 89\Documents\Visual Studio 2019\source\repos\libCptBq\testUnCptBq\obj\Debug\testUnCptBq.pdb
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\bin\Debug\testUnCptBq.dll
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\bin\Debug\testUnCptBq.pdb
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\bin\Debug\libCptBq.dll
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\bin\Debug\libCptBq.pdb
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\bin\Debug\libCptBq.xml
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\obj\Debug\testUnCptBq.csproj.AssemblyReference.cache
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\obj\Debug\testUnCptBq.csproj.CoreCompileInputs.cache
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\obj\Debug\testUnCptBq.csproj.CopyComplete
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\obj\Debug\testUnCptBq.dll
+G:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\obj\Debug\testUnCptBq.pdb
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\bin\Debug\testUnCptBq.dll
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\bin\Debug\testUnCptBq.pdb
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\bin\Debug\libCptBq.dll
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\bin\Debug\libCptBq.pdb
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\bin\Debug\libCptBq.xml
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\obj\Debug\testUnCptBq.csproj.AssemblyReference.cache
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\obj\Debug\testUnCptBq.csproj.CoreCompileInputs.cache
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\obj\Debug\testUnCp.C96BCEC0.Up2Date
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\obj\Debug\testUnCptBq.dll
+E:\Cours\Lycee Voillaume\2024-2025\2TSSLAM\D3\Cours 03 - 20092024\libCptBq\testUnCptBq\obj\Debug\testUnCptBq.pdb
+D:\C#\libCptBqTU\testUnCptBq\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\C#\libCptBqTU\testUnCptBq\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\C#\libCptBqTU\testUnCptBq\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\C#\libCptBqTU\testUnCptBq\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\C#\libCptBqTU\testUnCptBq\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\C#\libCptBqTU\testUnCptBq\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\C#\libCptBqTU\testUnCptBq\bin\Debug\testUnCptBq.dll
+D:\C#\libCptBqTU\testUnCptBq\bin\Debug\testUnCptBq.pdb
+D:\C#\libCptBqTU\testUnCptBq\bin\Debug\libCptBq.dll
+D:\C#\libCptBqTU\testUnCptBq\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\C#\libCptBqTU\testUnCptBq\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\C#\libCptBqTU\testUnCptBq\bin\Debug\libCptBq.pdb
+D:\C#\libCptBqTU\testUnCptBq\bin\Debug\libCptBq.xml
+D:\C#\libCptBqTU\testUnCptBq\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\C#\libCptBqTU\testUnCptBq\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\C#\libCptBqTU\testUnCptBq\obj\Debug\testUnCptBq.csproj.AssemblyReference.cache
+D:\C#\libCptBqTU\testUnCptBq\obj\Debug\testUnCptBq.csproj.CoreCompileInputs.cache
+D:\C#\libCptBqTU\testUnCptBq\obj\Debug\testUnCp.C96BCEC0.Up2Date
+D:\C#\libCptBqTU\testUnCptBq\obj\Debug\testUnCptBq.dll
+D:\C#\libCptBqTU\testUnCptBq\obj\Debug\testUnCptBq.pdb
