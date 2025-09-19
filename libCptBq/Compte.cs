@@ -33,14 +33,17 @@ namespace libCptBq
         /// <param name="decouvertAutorise">le découvert autorisé</param>
         public Compte(int numero, string nom, decimal solde, decimal decouvertAutorise)
         {
-
+            this.numero = numero;
+            this.nom = nom;
+            this.solde = solde;
+            this.decouvertAutorise = decouvertAutorise;
         }
         /// <summary>
         /// Constructeur de compte par défaut
         /// </summary>
         public Compte()
         {
-
+            
         }
         /// <summary>
         /// Réecriture de la méthode ToString
@@ -54,7 +57,7 @@ namespace libCptBq
         /// <param name="montant">Le montant à créditer</param>
         public void Crediter(decimal montant)
         {
-
+            this.Solde += montant;
         }
 
         /// <summary>
@@ -64,6 +67,11 @@ namespace libCptBq
         /// <returns>True si le débit a été effectué, False sinon</returns>
         public bool Debiter(decimal montant)
         {
+            if (this.solde - montant >= this.decouvertAutorise)
+            {
+                this.solde -= montant;
+                return true;
+            }
             return false;
         }
 
@@ -76,6 +84,11 @@ namespace libCptBq
         /// <returns></returns>
         public bool Transferer(decimal n, Compte c)
         {
+            if (this.Debiter(n))
+            {
+                c.Crediter(n);
+                return true;
+            }
             return false; 
         }
 
@@ -87,7 +100,9 @@ namespace libCptBq
         /// <returns></returns>
         public bool Superieur(Compte c)
         {
-            return false;
+            if (this.Solde > c.Solde)
+                return true; 
+            return false;    
         }
 
     }

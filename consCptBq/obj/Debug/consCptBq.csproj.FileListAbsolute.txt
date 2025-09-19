@@ -55,3 +55,15 @@ D:\libCptBqTU\consCptBq\obj\Debug\consCptBq.csproj.CoreCompileInputs.cache
 D:\libCptBqTU\consCptBq\obj\Debug\consCptBq.csproj.Up2Date
 D:\libCptBqTU\consCptBq\obj\Debug\consCptBq.exe
 D:\libCptBqTU\consCptBq\obj\Debug\consCptBq.pdb
+C:\Users\ZiadF\Desktop\Projets\2 SLAM\libCptBqTU\consCptBq\bin\Debug\consCptBq.exe.config
+C:\Users\ZiadF\Desktop\Projets\2 SLAM\libCptBqTU\consCptBq\bin\Debug\consCptBq.exe
+C:\Users\ZiadF\Desktop\Projets\2 SLAM\libCptBqTU\consCptBq\bin\Debug\consCptBq.pdb
+C:\Users\ZiadF\Desktop\Projets\2 SLAM\libCptBqTU\consCptBq\bin\Debug\libCptBq.dll
+C:\Users\ZiadF\Desktop\Projets\2 SLAM\libCptBqTU\consCptBq\bin\Debug\libCptBq.pdb
+C:\Users\ZiadF\Desktop\Projets\2 SLAM\libCptBqTU\consCptBq\bin\Debug\libCptBq.xml
+C:\Users\ZiadF\Desktop\Projets\2 SLAM\libCptBqTU\consCptBq\obj\Debug\consCptBq.csproj.AssemblyReference.cache
+C:\Users\ZiadF\Desktop\Projets\2 SLAM\libCptBqTU\consCptBq\obj\Debug\consCptBq.exe.config
+C:\Users\ZiadF\Desktop\Projets\2 SLAM\libCptBqTU\consCptBq\obj\Debug\consCptBq.csproj.CoreCompileInputs.cache
+C:\Users\ZiadF\Desktop\Projets\2 SLAM\libCptBqTU\consCptBq\obj\Debug\consCptBq.csproj.Up2Date
+C:\Users\ZiadF\Desktop\Projets\2 SLAM\libCptBqTU\consCptBq\obj\Debug\consCptBq.exe
+C:\Users\ZiadF\Desktop\Projets\2 SLAM\libCptBqTU\consCptBq\obj\Debug\consCptBq.pdb

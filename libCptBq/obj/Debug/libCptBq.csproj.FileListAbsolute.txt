@@ -33,3 +33,10 @@ D:\libCptBqTU\libCptBq\obj\Debug\libCptBq.csproj.AssemblyReference.cache
 D:\libCptBqTU\libCptBq\obj\Debug\libCptBq.csproj.CoreCompileInputs.cache
 D:\libCptBqTU\libCptBq\obj\Debug\libCptBq.dll
 D:\libCptBqTU\libCptBq\obj\Debug\libCptBq.pdb
+C:\Users\ZiadF\Desktop\Projets\2 SLAM\libCptBqTU\libCptBq\bin\Debug\libCptBq.xml
+C:\Users\ZiadF\Desktop\Projets\2 SLAM\libCptBqTU\libCptBq\bin\Debug\libCptBq.dll
+C:\Users\ZiadF\Desktop\Projets\2 SLAM\libCptBqTU\libCptBq\bin\Debug\libCptBq.pdb
+C:\Users\ZiadF\Desktop\Projets\2 SLAM\libCptBqTU\libCptBq\obj\Debug\libCptBq.csproj.AssemblyReference.cache
+C:\Users\ZiadF\Desktop\Projets\2 SLAM\libCptBqTU\libCptBq\obj\Debug\libCptBq.csproj.CoreCompileInputs.cache
+C:\Users\ZiadF\Desktop\Projets\2 SLAM\libCptBqTU\libCptBq\obj\Debug\libCptBq.dll
+C:\Users\ZiadF\Desktop\Projets\2 SLAM\libCptBqTU\libCptBq\obj\Debug\libCptBq.pdb
