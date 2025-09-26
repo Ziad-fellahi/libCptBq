@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace libCptBq
 {
@@ -10,66 +7,67 @@ namespace libCptBq
     /// </summary>
     public class Compte
     {
-        private int numero;
-        private string nom;
-        private decimal solde;
-        private decimal decouvertAutorise; // valeur négative
-
         /// <summary>
-        /// Propriétés implémentées automatiquement
+        /// Propriétés
         /// </summary>
         public int Numero { get; set; }
         public string Nom { get; set; }
         public decimal Solde { get; set; }
         public decimal DecouvertAutorise { get; set; }
 
-
         /// <summary>
         /// Constructeur à 4 arguments
         /// </summary>
-        /// <param name="numero">le numéro</param>
-        /// <param name="nom">le nom</param>
-        /// <param name="solde">le solde</param>
-        /// <param name="decouvertAutorise">le découvert autorisé</param>
         public Compte(int numero, string nom, decimal solde, decimal decouvertAutorise)
         {
-            this.numero = numero;
-            this.nom = nom;
-            this.solde = solde;
-            this.decouvertAutorise = decouvertAutorise;
+            this.Numero = numero;
+            this.Nom = nom;
+            this.Solde = solde;
+            this.DecouvertAutorise = decouvertAutorise;
         }
+
         /// <summary>
-        /// Constructeur de compte par défaut
+        /// Constructeur par défaut
         /// </summary>
         public Compte()
         {
-            
+            this.Numero = 0;
+            this.Nom = "";
+            this.Solde = 0m;
+            this.DecouvertAutorise = 0m;
         }
-        /// <summary>
-        /// Réecriture de la méthode ToString
-        /// </summary>
-        /// <returns></returns>
-
 
         /// <summary>
-        /// Crédite le compte du montant spécifié
+        /// Crédite le compte
         /// </summary>
-        /// <param name="montant">Le montant à créditer</param>
         public void Crediter(decimal montant)
         {
-            this.Solde += montant;
+            if (montant > 0)
+            {
+                this.Solde += montant;
+            }
         }
 
         /// <summary>
-        /// Débite le compte du montant spécifié si le solde le permet
+        /// Débite le compte si possible
         /// </summary>
-        /// <param name="montant">Le montant à débiter</param>
-        /// <returns>True si le débit a été effectué, False sinon</returns>
         public bool Debiter(decimal montant)
         {
-            if (this.solde - montant >= this.decouvertAutorise)
+            if (montant <= 0) return false; // interdit le débit négatif
+            if (this.Solde - montant >= this.DecouvertAutorise)
             {
-                this.solde -= montant;
+                this.Solde -= montant;
+                return true;
+            }
+            return false;
+        }
+
+        public bool Transferer(decimal montant, Compte c)
+        {
+            if (montant <= 0) return false; // interdit le transfert négatif
+            if (this.Debiter(montant))
+            {
+                c.Crediter(montant);
                 return true;
             }
             return false;
@@ -77,33 +75,21 @@ namespace libCptBq
 
 
         /// <summary>
-        /// Transférer un montant vers un autre compte
+        /// Compare le solde avec un autre compte
         /// </summary>
-        /// <param name="montant"></param>
-        /// <param name="compteDestination"></param>
-        /// <returns></returns>
-        public bool Transferer(decimal n, Compte c)
+        public bool Superieur(Compte autre)
         {
-            if (this.Debiter(n))
-            {
-                c.Crediter(n);
-                return true;
-            }
-            return false; 
+            return this.Solde > autre.Solde;
         }
-
 
         /// <summary>
-        /// Savoir si le solde est supérieur à celui d'un autre compte
+        /// Représentation texte de l’objet
         /// </summary>
-        /// <param name="compteDestination"></param>
-        /// <returns></returns>
-        public bool Superieur(Compte c)
+        public override string ToString()
         {
-            if (this.Solde > c.Solde)
-                return true; 
-            return false;    
+            return $"numero: {this.Numero} nom: {this.Nom} solde: {this.Solde:F2} decouvert autorisé: {this.DecouvertAutorise:F2}";
         }
-
     }
+
+
 }
