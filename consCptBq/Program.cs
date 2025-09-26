@@ -10,6 +10,7 @@ namespace consCptBq
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine("Au boulot");
         }
     }

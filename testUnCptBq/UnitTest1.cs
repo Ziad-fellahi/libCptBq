@@ -178,21 +178,21 @@ namespace testUnCptBq
         }
 
         [TestMethod]
-        public void Transferer_MontantNegatif_TransfertEchoueTested()
-        {
-            // Arranger
-            Compte compteSource = new Compte(7, "Source", 1000m, 500m);
-            Compte compteDestination = new Compte(8, "Destination", 500m, 500m);
-            decimal montantTransfert = -200m;
+            public void Transferer_MontantNegatif_TransfertEchoueTested()
+            {
+                // Arranger
+                Compte compteSource = new Compte(7, "Source", 1000m, 500m);
+                Compte compteDestination = new Compte(8, "Destination", 500m, 500m);
+                decimal montantTransfert = -200m;
 
-            // Agir
-            bool resultat = compteSource.Transferer(montantTransfert, compteDestination);
+                // Agir
+                bool resultat = compteSource.Transferer(montantTransfert, compteDestination);
 
-            // Assert
-            Assert.IsFalse(resultat, "Le transfert d'un montant négatif devrait échouer");
-            Assert.AreEqual(1000m, compteSource.Solde, "Le solde du compte source n'aurait pas dû changer");
-            Assert.AreEqual(500m, compteDestination.Solde, "Le solde du compte destination n'aurait pas dû changer");
-        }
+                // Assert
+                Assert.IsFalse(resultat, "Le transfert d'un montant négatif devrait échouer");
+                Assert.AreEqual(1000m, compteSource.Solde, "Le solde du compte source n'aurait pas dû changer");
+                Assert.AreEqual(500m, compteDestination.Solde, "Le solde du compte destination n'aurait pas dû changer");
+            }
         [TestMethod]
         public void Superieur_SoldeSuperieur_RetourneTrueTested()
         {
@@ -249,4 +249,24 @@ namespace testUnCptBq
             Assert.IsTrue(resultat, "Le compte1 avec un solde de 0 devrait être supérieur au compte2 avec un solde négatif");
         }
     }
+
+    public class TestBanque
+    {
+
+        public void AjouterCompte_AjouteUnCompteALaListe()
+        {
+            Banque banque = new Banque();
+            Compte c1 = new Compte(12345, "toto", 1000m, -500m);
+
+            banque.AjouterCompte(c1);
+
+            Compte resultat = banque.RendCompte(12345);
+            Assert.IsNotNull(resultat, "Le compte n'a pas été ajouté correctement.");
+            Assert.AreEqual("toto", resultat.Nom, "Le nom du compte ajouté est incorrect.");
+        }
+
+
+
+    }
 }
+zzz
